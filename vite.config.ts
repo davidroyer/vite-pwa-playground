@@ -8,8 +8,8 @@ const pwaOptions: Partial<VitePWAOptions> = {
   base: '/',
   includeAssets: ['favicon.svg'],
   manifest: {
-    name: 'PWA Router',
-    short_name: 'PWA Router',
+    name: 'Vite PWA',
+    short_name: 'Vite PWA',
     theme_color: '#ffffff',
     icons: [
       {
